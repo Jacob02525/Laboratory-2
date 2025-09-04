@@ -24,5 +24,11 @@ Type: Game
 15. If the order is anything but "<visibility modifier> <type> <variable name>", 
 then the class box will turn red. which, I assume, means that there's an error.
 16. It is important to put a semicolon after every field declaration or the there will be an error.
+18. "Student" is the constuctor in this class 
+19. There are two parameters. Their types are "String" and "Double"
+20. The values definitely have to be stored in a persistent location.
+
+
+
  
  
